@@ -74,3 +74,6 @@ fabric.properties
 .idea/
 Zookeeper.iml
 zookeeper_audit.log
+
+/target
+/*.iml
